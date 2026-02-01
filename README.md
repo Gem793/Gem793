@@ -1,5 +1,5 @@
 # 💫 About Me:
-Turning messy data into ML and data science projects 🤖📊<br>Interested in GenAI and Computer Vision<br>Always down to collab on ambitious ideas and build stuff that actually works 🚀<br>My IDE has trust issues 💻🐞
+Turning messy data into ML and data science projects 🤖📊<br>Interested in GenAI and Computer Vision<br>Always down to collab on ambitious ideas and build stuff that actually works 🚀<br>I think my IDE has trust issues 💻🐞
 
 
 # 💻 Tech Stack:
